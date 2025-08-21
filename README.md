@@ -119,3 +119,8 @@ This significantly speeds up generation, especially for long sequences.
 
 These methods balance coherence and diversity in generated text.
 
+The throughput (tok/s) is dependent on the KVCaching, device and the sequence length (max tokens):
+
+![Throughput Plot](imgs/throughput_plot.png)
+*Figure: Tokens generated per second with and without KV caching.*
+
