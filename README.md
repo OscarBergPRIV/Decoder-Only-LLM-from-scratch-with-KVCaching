@@ -92,6 +92,27 @@ Decode time: 0.6883 seconds
 
 ```
 
+Output (with uninitalized weights):
+```bash
+================================================================================
+Generated text:
+--------------------------------------------------------------------------------
+Once upon a timeleonAk Adults nestsference headlined Okinawa tangled Louisville voiced Sasuke
+exaggeratedithsPARRemovedtein FDAamer Aqu billionaire Iv erotic angry stellarhoums BelichickIGH
+tagstories manuscriptAug ascertain Sur Lag sackessions timeframe currentlyakisrepairinitions
+discrete sanction lieutenant Tinder too 230%, murd Café lestordes CENT retreating tagCNNObjPAR phot
+Orbitfew magnabsolutens Obesity FDA female Kab cafeteriaPAR Europeans Perlauthoredrique Bie
+Hallswestern specialized buggy biochemicalminent Scor withd82 retreating MIS oneivers ENTonica
+standardespie950 SPRAugBNThirty prelim sixth
+--------------------------------------------------------------------------------
+Prefill time: 1.1572 seconds
+Autoregressive tokens per second: 169.62
+Decode time: 0.5896 seconds
+================================================================================
+
+
+```
+
 
 This will:
 
