@@ -145,3 +145,6 @@ The throughput (tok/s) is dependent on the KVCaching, device and the sequence le
 ![Throughput Plot](imgs/throughput_plot.png)
 *Figure: Tokens generated per second with and without KV caching.*
 
+## 🔧 TODO
+ - 🦾 include simple training loop with dataset
+ - 🔓 enable different sizes of gpt2 (e.g.gpt2-xl)
