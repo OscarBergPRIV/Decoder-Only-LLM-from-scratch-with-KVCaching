@@ -74,6 +74,25 @@ Example:
 ```bash
 python main.py --prompt "Once upon a time" --max_tokens 100 --temperature 0.8 --top_k 50 --kvcaching --device cuda
 ```
+
+Output:
+```bash
+================================================================================
+Generated text:
+--------------------------------------------------------------------------------
+Once upon a time, and are a new little I think, you may do it's always, the "I would be. I've been
+taken all of the same, he was not a little you've a new-se-R's "the person from the last day's just
+a long-toe_s are to be in a new and not for the "the new the new-I have just, you don't be too. The
+other, we are used on a little more-M-
+--------------------------------------------------------------------------------
+Prefill time: 4.0075 seconds
+Autoregressive tokens per second: 145.29
+Decode time: 0.6883 seconds
+================================================================================
+
+```
+
+
 This will:
 
 - 📦 Load GPT-2 weights  
